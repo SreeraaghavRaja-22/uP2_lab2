@@ -26,12 +26,12 @@ GFX_Library.obj: ../MultimodDrivers/multimod_i2c.h
 GFX_Library.obj: C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/i2c.h
 GFX_Library.obj: ../MultimodDrivers/multimod_OPT3001.h
 GFX_Library.obj: ../MultimodDrivers/multimod_uart.h
-GFX_Library.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h
+GFX_Library.obj: C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h
 GFX_Library.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h
 GFX_Library.obj: ../MultimodDrivers/multimod_spi.h
 GFX_Library.obj: C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ssi.h
 GFX_Library.obj: ../MultimodDrivers/multimod_ST7789.h
-GFX_Library.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h
+GFX_Library.obj: C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/SPI_string.h
 GFX_Library.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdio.h
 GFX_Library.obj: ../GFX_Library.h
 GFX_Library.obj: C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/pin_map.h
@@ -89,7 +89,7 @@ C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/i2c.h:
 
 ../MultimodDrivers/multimod_uart.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h:
+C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h:
 
 C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h:
 
@@ -99,7 +99,7 @@ C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ssi.h:
 
 ../MultimodDrivers/multimod_ST7789.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h:
+C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/SPI_string.h:
 
 C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdio.h:
 

@@ -13,7 +13,7 @@ MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-a
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h
-MultimodDrivers/src/multimod_uart.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h
+MultimodDrivers/src/multimod_uart.obj: C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/TivaWare_C_Series-2.2.0.295/inc/tm4c123gh6pm.h
 MultimodDrivers/src/multimod_uart.obj: C:/ti/TivaWare_C_Series-2.2.0.295/inc/hw_memmap.h
@@ -49,7 +49,7 @@ C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h:
+C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h:
 
 C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h:
 

@@ -34,10 +34,10 @@ lab2_bon.obj: ../MultimodDrivers/multimod_i2c.h
 lab2_bon.obj: C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/i2c.h
 lab2_bon.obj: ../MultimodDrivers/multimod_OPT3001.h
 lab2_bon.obj: ../MultimodDrivers/multimod_uart.h
-lab2_bon.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h
+lab2_bon.obj: C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h
 lab2_bon.obj: ../MultimodDrivers/multimod_spi.h
 lab2_bon.obj: ../MultimodDrivers/multimod_ST7789.h
-lab2_bon.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h
+lab2_bon.obj: C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/SPI_string.h
 
 ../lab2_bon.c:
 
@@ -107,11 +107,11 @@ C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/i2c.h:
 
 ../MultimodDrivers/multimod_uart.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/uartstdio.h:
+C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/uartstdio.h:
 
 ../MultimodDrivers/multimod_spi.h:
 
 ../MultimodDrivers/multimod_ST7789.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h:
+C:/School/Fall_25/uP2/uP2_Labs/uP2_Lab2/uP2_lab2/lab2_template/SPI_string.h:
 

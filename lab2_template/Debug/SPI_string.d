@@ -12,7 +12,7 @@ SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/m
 SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/machine/_stdint.h
 SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h
 SPI_string.obj: ../font.h
-SPI_string.obj: C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h
+SPI_string.obj: ../SPI_string.h
 SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdio.h
 SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdarg.h
 SPI_string.obj: C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool.h
@@ -41,7 +41,7 @@ C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/sys/_stdint.h:
 
 ../font.h:
 
-C:/Users/sreer/School/Fall_2025/Microprocessor_Applications_2/lab2/lab2_template/SPI_string.h:
+../SPI_string.h:
 
 C:/ti/ccs1281/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdio.h:
 

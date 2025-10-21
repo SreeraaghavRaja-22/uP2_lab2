@@ -4,7 +4,7 @@
 
 #include <stdint.h>
 #include "font.h"
-#include "C:\Users\sreer\School\Fall_2025\Microprocessor_Applications_2\lab2\lab2_template\SPI_string.h"
+#include "SPI_string.h"
 // i trust that you guys can figure out how to put the font in it's own header file (from the GFX library)
 //  and that you can resolve other header dependencies by now on your own
 // and that you can put these (the draw char and draw string) functions in a header file to expose to your toplevel
